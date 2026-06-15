@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# NLTK Data
+nltk_data/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python
+*.py[cod]
+*.so
+.Python
+
+# Logs
+*.log
