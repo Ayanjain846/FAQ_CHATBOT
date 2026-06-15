@@ -60,8 +60,3 @@ Unlike simple keyword-matching bots, this system uses **semantic similarity** to
 | **Vectorization** | scikit-learn 1.3.0 | TF-IDF transformation and cosine similarity |
 | **Backend Logic** | Python 3.8+ | Core business logic and NLP pipeline |
 
-### System Architecture Diagram
-<<<<<<< HEAD
-=======
-
->>>>>>> 95ecc09ea1b360c7176ab2019c0f4d5f53d760b0
